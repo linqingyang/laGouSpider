@@ -1,0 +1,2 @@
+# laGouSpider
+selenuim+Pyquery爬拉钩网上各门语言的职位数据并存入MongoDB
